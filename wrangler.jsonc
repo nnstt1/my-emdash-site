@@ -22,4 +22,7 @@
 	"triggers": {
 		"crons": ["* * * * *"],
 	},
+	  "vars": {
+		"EMDASH_SITE_URL": "my-emdash-site.nnstt1.workers.dev"
+	},
 }
